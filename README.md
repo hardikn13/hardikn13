@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hardik</h1>
 
 # 💫 About Me:
-<img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">🌱 I’m currently learning Data Structures & Algorithms<br><br>💬 Ask me about Web Development, Data Structures & Algorithms<br><br>📫 How to reach me hardiknahta111@gmail.com<br><br>⚡ Fun fact I think I am funny
+<img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">😎 A passionate techie who loves to code & meet new people<br><br>🌱 I’m currently learning Data Structures & Algorithms<br><br>💬 Ask me about Web Development, Data Structures & Algorithms<br><br>📫 How to reach me hardiknahta111@gmail.com<br><br>⚡ Fun fact I think I am funny
 
 
 ## 🌐 Socials:
